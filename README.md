@@ -4,6 +4,7 @@ About Kernel Variants
 ```bash
 - R-WIFI = Kernel With Wifi Drivers from CAF-R tag of LA.UM.9.2.r1-02700-SDMxx0.0.
 - P-WIFI = Kernel With Wifi Drivers from CAF-P tag of LA.UM.7.2.r1-09400-sdm660.0.
+- X00TD = Kernel Same As P-WIFI Variant but for Asus Zenfone Max Pro M1 (X00TD) only.
 ```
 
 Note
@@ -17,6 +18,7 @@ Note
 - There wont be any UC, UV variant or messed up display refresh rate variant.
 - The released variants are little bit OC'ed to avoid the UI LAGS AND APP OPENING STUTTERS.
 - Only Android R is supported as it isnt tested on Android Q or P till now.
+- Dont blame the kernel if your battery charging speed isnt going up coz its you who cause it to heat already by doing heavy stuffs.
 ```
 
 -----------------------------------------------------------------------------
