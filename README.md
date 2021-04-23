@@ -3,8 +3,7 @@ About Kernel Variants
 
 ```bash
 - R-WIFI = Kernel With Wifi Drivers from CAF-R tag of LA.UM.9.2.r1-02700-SDMxx0.0.
-- P-WIFI = Kernel With Wifi Drivers from CAF-P tag of LA.UM.7.2.r1-09400-sdm660.0.
-- X00TD = Kernel Same As P-WIFI Variant but for Asus Zenfone Max Pro M1 (X00TD) only.
+- P-WIFI = Kernel With Wifi Drivers from CAF-P tag of LA.UM.7.2.r1-09600-sdm660.0.
 ```
 
 Note
@@ -28,10 +27,11 @@ Credits
 
 - @ZyCromerZ
 - @Dakkshesh07
-- @Frost_id
+- @Sixxz
 - @RyuujiX
 - @Rk779
 - @SonalSingh18
+- @DarshanMevada
 
 -----------------------------------------------------------------------------
 <p align="center">
